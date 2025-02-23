@@ -1,4 +1,7 @@
 {
   "item.tutorialmod.purpite_ingot": "Purpite Ingot",
-  "item.tutorialmod.raw_purpite": "Raw Purpite"
+  "item.tutorialmod.raw_purpite": "Raw Purpite",
+
+  "block.tutorialmod.block_of_purpite": "Block of Purpite",
+  "block.tutorialmod.block_of_raw_purpite": "Block of raw Purpite"
 }
